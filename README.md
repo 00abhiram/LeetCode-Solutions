@@ -47,4 +47,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/00abhiram/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
