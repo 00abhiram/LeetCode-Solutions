@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -60,6 +61,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
@@ -92,4 +95,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
