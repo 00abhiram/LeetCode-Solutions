@@ -96,6 +96,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/00abhiram/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/00abhiram/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0704-binary-search](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/00abhiram/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0169-majority-element](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -198,4 +201,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
