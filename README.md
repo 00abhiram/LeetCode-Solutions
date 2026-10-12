@@ -41,6 +41,7 @@
 | [0229-majority-element-ii](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/00abhiram/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | ------- |
 | [0136-single-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
