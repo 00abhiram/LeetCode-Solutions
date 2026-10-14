@@ -110,6 +110,7 @@
 | [0048-rotate-image](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/00abhiram/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0410-split-array-largest-sum](https://github.com/00abhiram/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/00abhiram/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/00abhiram/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/00abhiram/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
