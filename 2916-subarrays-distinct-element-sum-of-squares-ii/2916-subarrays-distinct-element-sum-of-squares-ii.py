@@ -46,7 +46,7 @@ class Solution:
         n = len(nums)
         MOD = 10**9 + 7
         tree = SegmentTree(n)
-        
+            
         last_pos = {}
         total_ans = 0
         
